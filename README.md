@@ -1,2 +1,4 @@
 # DATABASE-mysql-mongodb-instruct
-write a complete db instruction tablet for all.
+mongodb part:
+download data first:
+https://github.com/neelabalan/mongodb-sample-dataset?tab=readme-ov-file
